@@ -1,4 +1,4 @@
-public class OOPS {
+public class DataTypes {
 
 //    enum Day {
 //        MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
@@ -12,6 +12,7 @@ public class OOPS {
             return "Student{name='" + name + "', age=" + age + "}";              //-----------------------
         }
     }
+
 
     public static void main(String[] args) {
 //        byte b = 10;
